@@ -1135,8 +1135,7 @@ alex@/tmp/sort$
 
 ---
 ## Author
-* **Robinson Montes** - [mecomonteshbtn](https://github.com/mecomonteshbtn)
-* **Miguel Montoya**  - [MiguelMontoya-R](https://github.com/MiguelMontoya-R)
+* **Kanyanta Musonda** - [kanyantamusonda72@gmail.com]
 
 ---
 # sorting_algorithms
